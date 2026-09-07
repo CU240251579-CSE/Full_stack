@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Full Stack Development (BTCS303P) — Mini E-Commerce Project
 
 **Department of Computer Science & Engineering — COER University**
@@ -179,3 +180,145 @@ The main objective of **STYLEHUB** is to develop a simple and interactive online
 ## 📌 Conclusion
 
 STYLEHUB demonstrates the basic working of a mini e-commerce website for a T-shirt collection. The project combines HTML, CSS, and JavaScript to provide users with a simple shopping experience, from browsing products to adding items to the cart and completing the checkout process.
+=======
+# StyleHub — Full Stack Web Development Mini E-Commerce Project
+
+## Department of Computer Science & Engineering — COER University
+
+### Project Title
+**StyleHub — Fashion T-Shirt Store**
+
+### Student Details
+
+- **Name:** Dev Sharma
+- **Program:** BTech CSE "A"
+- **CU ID:** CU24250269
+- **Roll No.:** 12
+
+### GitHub Repository
+
+**Repository:** https://github.com/DevSharma1912/Full_Stack_Lab
+
+---
+
+# Project Overview
+
+StyleHub is a mini e-commerce web application developed as part of the **Full Stack Web Development Lab**.
+
+The project represents the development of a fashion T-shirt store through multiple stages. It was initially developed using **HTML5 and CSS3**, then made interactive using **Vanilla JavaScript**, and finally rebuilt using **React** to demonstrate modern component-based web development.
+
+The project allows users to:
+
+- Browse available T-shirts
+- View product information
+- Add products to a shopping cart
+- Increase product quantities
+- Remove products from the cart
+- View subtotals and grand total
+- Open and close the shopping cart
+- Fill out a checkout form
+- Select a payment method
+- Place an order
+- Receive an order confirmation
+
+---
+
+# Technology Stack
+
+## Lab Sheet 1
+
+- HTML5
+- CSS3
+
+## Lab Sheet 2
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- DOM Manipulation
+- Browser LocalStorage
+
+## Lab Sheet 3
+
+- React
+- Vite
+- JavaScript (JSX)
+- React Components
+- Props
+- `useState`
+- Conditional Rendering
+- Controlled Inputs
+
+## Development Tools
+
+- Visual Studio Code
+- Git
+- GitHub
+- npm
+- Vite
+
+---
+
+# Implementation Timeline & Lab Sheet Log
+
+## Lab Sheet 1 — Building the Storefront
+
+**Technology:** HTML5 & CSS3  
+**Completion Date:** August 2026
+
+### Objective
+
+The first phase focused on creating the basic static storefront and designing the user interface.
+
+### HTML5 Page Structure
+
+The project contains the following main pages:
+
+- `index.html` — Homepage with hero/banner section and featured products
+- `products.html` — Product catalog displaying available T-shirts
+- `product-detail.html` — Product detail page
+- `cart.html` — Shopping cart page
+- `checkout.html` — Checkout and customer information form
+
+### CSS3 Styling
+
+A common stylesheet named `style.css` is used throughout the project.
+
+The stylesheet provides:
+
+- Header and navigation styling
+- Hero/banner section
+- Product card styling
+- CSS Grid-based product layout
+- Button styling
+- Footer styling
+- Responsive layout
+- Consistent colors, spacing and typography
+
+---
+
+# Lab Sheet 2 — Making It Interactive
+
+**Technology:** Vanilla JavaScript  
+**Completion Date:** August 26, 2026
+
+**Project Phase:** Interactive E-Commerce Functionality
+
+The second phase added interactivity to the StyleHub storefront using plain JavaScript without using a JavaScript framework.
+
+## Task 1 — Product Catalog
+
+A JavaScript array containing 8+ products was created.
+
+Each product contains:
+
+- `id`
+- `name`
+- `price`
+- `image`
+
+The product data is stored in:
+
+```text
+script.js
+
